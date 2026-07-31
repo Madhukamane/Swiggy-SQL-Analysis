@@ -1,12 +1,15 @@
 /*
-===========================================================
-Project : Swiggy Food Delivery Analysis
-File    : 01_Create_Table.sql
-Author  : Madhu Kamane
+======================================================================
+Project Name : Swiggy Food Delivery SQL Analysis
 
-Description:
-Creates the Swiggy table used for analysis.
-===========================================================
+Description :
+This script analyzes the Swiggy food delivery dataset using PostgreSQL.
+It includes data quality assessment, business analysis, window functions,
+CTEs, views, and user-defined functions to generate actionable insights.
+
+Author : Madhu Kamane
+Database : PostgreSQL
+======================================================================
 */
 
 CREATE TABLE Swiggy (
