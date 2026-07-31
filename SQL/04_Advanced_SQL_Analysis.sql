@@ -1,3 +1,21 @@
+/*
+======================================================================
+Project Name : Swiggy Food Delivery SQL Analysis
+
+Description :
+This script analyzes the Swiggy food delivery dataset using PostgreSQL.
+It includes data quality assessment, business analysis, window functions,
+CTEs, views, and user-defined functions to generate actionable insights.
+
+Author : Madhu Kamane
+Database : PostgreSQL
+======================================================================
+*/
+
+04_Advanced_SQL_Analysis
+/*
+-----------------------------------------------------------
+
 1. Top Rated Restaurants
 /*
 -----------------------------------------------------------
