@@ -57,13 +57,13 @@ This project is designed to simulate real-world business reporting and analytica
 
 | Metric | Value |
 |---------|-------|
-| Total Records | **59,064** |
+| Total Records | **197430** |
 | Total Cities | **28** |
-| Total States | **Your Output** |
+| Total States | **28** |
 | Restaurants | **993** |
-| Unique Dishes | **Your Output** |
+| Unique Dishes | **59064** |
 | Food Types | **2 (Veg & Non-Veg)** |
-| Categories | **Your Output** |
+| Categories | **4972** |
 | Database | PostgreSQL |
 
 ---
