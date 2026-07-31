@@ -13,8 +13,7 @@ Database : PostgreSQL
 */
 
 04_Advanced_SQL_Analysis
-/*
------------------------------------------------------------
+
 
 1. Top Rated Restaurants
 /*
